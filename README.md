@@ -1,3 +1,8 @@
+从 https://github.com/SuDaxia-kai/pointfootGym fork 到[konyyds]
+(https://github.com/konyyds/pointfootGym_BD)后clone的仓库
+main分支不修改，保持与上游仓库的同步
+在develop分支上面修改代码
+
 # Pointfoot-Gym-Template
 
 This repository provides a template for training point-foot legged robots, built upon Isaac Gym and LeggedGym framework.
